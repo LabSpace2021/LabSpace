@@ -26,5 +26,6 @@
 
 - [CSS Gradient](https://cssgradient.io/) - This tool was used to create gradient background.
 - [Box Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html) - This generator was used to generate box shadow for some of the buttons.
+- [SVG Repo](https://www.svgrepo.com/) - A great SVG resource to find relatable svg images.
 
 
