@@ -12,7 +12,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://labspace2021.github.io/LabSpace/](https://labspace2021.github.io/LabSpace/)
 
 ### Built with
 
