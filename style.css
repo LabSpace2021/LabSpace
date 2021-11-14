@@ -131,6 +131,7 @@ border:none;
     justify-content: center;
     align-items: center;
     padding-block-end:50px;
+    text-align:center;
 }
 .services-header h4{
     background: -webkit-linear-gradient(360deg, rgba(255,70,147,1) 23%, rgba(255,106,113,1) 65%);
